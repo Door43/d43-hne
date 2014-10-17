@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hne:home|Door43 (hne)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hne|d43-hne repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hne/archive/master.zip|d43-hne.zip]]
+
+**Recent Changes**
+{{changes>ns = hne}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hne|Ethnologue data]]
+
